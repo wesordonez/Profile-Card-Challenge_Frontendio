@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendio Solution]((https://www.frontendmentor.io/solutions/profile-card-challenge-using-css-flexbox-zzS2_odYpx))
+- Live Site URL: [Live Solution]((https://wesordonez.github.io/Profile-Card-Challenge_Frontendio/))
 
 ## My process
 
