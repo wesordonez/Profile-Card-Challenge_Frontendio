@@ -3,7 +3,6 @@ body{
   max-width: 375px;
   margin: auto;
   overflow: hidden;
-  box-shadow: 0 10px 40px -15px hsl(229, 23%, 23%);
 }
 hr{
   border-color:  hsl(0, 0%, 59%);
@@ -31,6 +30,8 @@ hr{
   border-radius: 20px;
   overflow: hidden;
   max-width: 350px;
+  box-shadow: 0 10px 40px -15px hsl(229, 23%, 23%);
+
 }
 .img-pattern {
   width: 100%;
