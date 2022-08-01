@@ -1,0 +1,89 @@
+body{
+  background-color: hsl(185, 75%, 39%);
+  max-width: 375px;
+  margin: auto;
+  overflow: hidden;
+}
+hr{
+  border-color:  hsl(0, 0%, 59%);
+  opacity: 20%
+}
+/* Background */
+.img-top {
+  max-width: 100%;
+  position: absolute;
+  top: -250px;
+  left: -250px;
+  z-index: -1;
+}
+.img-bottom {
+  max-width: 100%;
+  position: absolute;
+  bottom: -250px;
+  right: -250px;
+  z-index: -1;
+}
+/* Card */
+.card {
+  background-color: #fff;
+  margin:50% auto;
+  border-radius: 20px;
+  overflow: hidden;
+  max-width: 350px;
+}
+.img-pattern {
+  width: 100%;
+}
+/* Profile Image */
+.img-profile {
+  max-width: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: relative;
+  bottom: 50px;
+  left: 120px;
+  padding: 5px;
+  background-color: #fff;
+
+}
+/* Profile Text */
+.name-div {
+  text-align: center;
+  font-family: "Kumbh Sans";
+  font-weight: 700;
+  font-size: 18px;
+  position: relative;
+  bottom: 35px;
+}
+.age{
+  font-weight: 400;
+  color: hsl(0, 0%, 59%);
+}
+.location-div {
+  text-align: center;
+  font-family: "Kumbh Sans";
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(0, 0%, 59%);
+  position:relative;
+  bottom: 25px;
+}
+/* Stats */
+.flex-container {
+  display: flex;
+}
+.flex-container > div {
+  margin:20px auto;
+  text-align: center;
+}
+.stats {
+  font-family: "Kumbh Sans";
+  font-size: 18px;
+  font-weight: 700;
+}
+.stats-text {
+  font-family: "Kumbh Sans";
+  font-size: 12px;
+  font-weight: 400;
+  color: hsl(0,0%,59%);
+}
